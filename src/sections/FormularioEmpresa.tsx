@@ -150,7 +150,7 @@ export function FormularioEmpresa() {
         .filter((_, i) => form.interesses[i])
         .join("\n• ");
 
-      await fetch("https://formsubmit.co/ajax/amandaporto_93@hotmail.com", {
+      await fetch("https://formsubmit.co/ajax/vagnerlessa123@gmail.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

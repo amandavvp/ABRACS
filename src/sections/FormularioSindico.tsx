@@ -112,7 +112,7 @@ export function FormularioSindico() {
         mais5: "Mais de 5 anos",
       };
 
-      await fetch("https://formsubmit.co/ajax/amandaporto_93@hotmail.com", {
+      await fetch("https://formsubmit.co/ajax/vagnerlessa123@gmail.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
