@@ -31,7 +31,7 @@ export function Navbar() {
           <img
             src={logoColor}
             alt="ABRACS"
-            className="h-20 w-auto"
+            className="h-16 md:h-20 w-auto"
           />
         </button>
 
